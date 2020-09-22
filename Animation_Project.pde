@@ -55,7 +55,7 @@ void setup(){ //==========================
   
   System.out.println("Saa nanbyakkai, nanzen kai Suki na dake amaete ii nojya Shippo futte mofu-mofu!");
 
-} //END SETUP? ===========================
+} //END SETUP ===========================
 
 
 
