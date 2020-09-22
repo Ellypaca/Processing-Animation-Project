@@ -1,2 +1,2 @@
 # Processing-Animation-Project
-Wanted to add Senko hairpin but I ran out of time
+Wanted to add a Senko hairpin but I ran out of time
